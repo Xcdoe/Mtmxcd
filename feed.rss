@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>designupdate - GitHub Changelog</title>
+	<atom:link href="https://github.blog/changelog/label/designupdate/feed/" rel="self" type="application/rss+xml" />
+	<link>https://github.blog/changelog/label/designupdate/</link>
+	<description>Updates, ideas, and inspiration from GitHub to help developers build and design software.</description>
+	<lastBuildDate>Thu, 01 Aug 2024 17:52:12 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.2</generator>
+
+<image>
+	<url>https://github.blog/wp-content/uploads/2019/01/cropped-github-favicon-512.png?fit=32%2C32</url>
+	<title>designupdate - GitHub Changelog</title>
+	<link>https://github.blog/changelog/label/designupdate/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">153214340</site>	<item>
+		<title>Keyboard Navigation Improvements for Hovercards</title>
+		<link>https://github.blog/changelog/2024-07-29-keyboard-navigation-improvements-for-hovercards</link>
+		
+		<dc:creator><![CDATA[Allison]]></dc:creator>
+		<pubDate>Mon, 29 Jul 2024 18:35:23 +0000</pubDate>
+				<guid isPermaLink="false">https://github.blog/changelog/2024-07-29-keyboard-navigation-improvements-for-hovercards</guid>
+
+					<description><![CDATA[<p>Keyboard Navigation Improvements for Hovercards</p>
+<p>The post <a href="https://github.blog/changelog/2024-07-29-keyboard-navigation-improvements-for-hovercards">Keyboard Navigation Improvements for Hovercards</a> appeared first on <a href="https://github.blog">The GitHub Blog</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>We are excited to announce new keyboard behavior for navigating and dismissing hovercards without the need for a mouse! This enhancement is designed to make our platform more user-friendly for everyone, particularly those who rely on keyboard navigation.</p>
+<div style="width: 1920px;" class="wp-video"><!--[if lt IE 9]><script>document.createElement('video');</script><![endif]-->
+<video class="wp-video-shortcode" id="video-79068-1" width="1920" height="1080" preload="metadata" controls="controls"><source type="video/mp4" src="https://github.blog/wp-content/uploads/2024/07/Hovercard-Demo.mp4#t=0.001" /><a href="https://github.blog/wp-content/uploads/2024/07/Hovercard-Demo.mp4#t=0.001">https://github.blog/wp-content/uploads/2024/07/Hovercard-Demo.mp4#t=0.001</a></video></div>
+<h3 id="how-it-works">How It Works<a href="#how-it-works" class="heading-link pl-2 text-italic text-bold" aria-label="How It Works"></a></h3>
+<p>When you focus on a link with a hovercard, you can now press <code>Alt + Up</code> to make the hovercard appear and move focus inside it. This ensures that you can interact with the hovercard content without leaving your keyboard. Focus is trapped within the hovercard, similar to how it would be in a dialog box. To dismiss the hovercard and restore focus to the link, press <code>Esc</code>.</p>
+<h3 id="customizable-settings">Customizable Settings<a href="#customizable-settings" class="heading-link pl-2 text-italic text-bold" aria-label="Customizable Settings"></a></h3>
+<p>In response to both community and internal feedback, we have also introduced a new user setting that allows you to disable all hovercards. This option can be found under Accessibility Settings.</p>
+<h3 id="send-us-feedback">Send us Feedback<a href="#send-us-feedback" class="heading-link pl-2 text-italic text-bold" aria-label="Send us Feedback"></a></h3>
+<p>You can reach out to us at <a href="https://github.com/orgs/community/discussions/133986">GitHub Community</a>. Your feedback is invaluable as we strive to create an inclusive and accessible environment for all users.</p>
+<p>The post <a href="https://github.blog/changelog/2024-07-29-keyboard-navigation-improvements-for-hovercards">Keyboard Navigation Improvements for Hovercards</a> appeared first on <a href="https://github.blog">The GitHub Blog</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">79068</post-id>	</item>
+		<item>
+		<title>Accessibility improvements for the contribution graph</title>
+		<link>https://github.blog/changelog/2023-03-02-accessibility-improvements-for-the-contribution-graph</link>
+		
+		<dc:creator><![CDATA[Kevin Duck]]></dc:creator>
+		<pubDate>Thu, 02 Mar 2023 19:30:03 +0000</pubDate>
+				<guid isPermaLink="false">https://github.blog/changelog/2023-03-02-accessibility-improvements-for-the-contribution-graph</guid>
+
+					<description><![CDATA[<p>Accessibility improvements for the contribution graph</p>
+<p>The post <a href="https://github.blog/changelog/2023-03-02-accessibility-improvements-for-the-contribution-graph">Accessibility improvements for the contribution graph</a> appeared first on <a href="https://github.blog">The GitHub Blog</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p>The contribution graph now supports keyboard interaction and compatibility with assistive technologies. Users can navigate the graph and filter contributions using the keyboard. While navigating the graph, a summary of each day is displayed visually in a tooltip and announced by screen readers.</p>
+<p><img data-recalc-dims="1" decoding="async" src="https://i0.wp.com/user-images.githubusercontent.com/1735279/222524581-26abae82-6b6a-4260-98ba-44adba02ab11.png?ssl=1" alt="Image of a Contribution Graph with the contributions done on June 16 showing in a tooltip"></p>
+<p>Users can move keyboard focus to the contribution graph and then navigate it using the following commands:</p>
+<ul>
+<li>Press arrow keys to navigate cell by cell</li>
+<li>Press Page Up to navigate to the first cell in a column</li>
+<li>Press Page Down to navigate to the last cell in a column</li>
+<li>Press Home to navigate to the first cell in a row</li>
+<li>Press End to navigate to the last cell in a row</li>
+<li>Press Enter to filter content in the Contribution Activity section by the current cell</li>
+</ul>
+<p>If the user is running a screen reader, it will announce the following text when the graph receives keyboard focus:</p>
+<blockquote><p>
+Contribution Graph, table, 54 columns, 8 rows.<br />
+User activity over 1 year of time. Each column is one week, with older weeks to the left. Select a cell to filter the &quot;Contribution Activity&quot; section.
+</p></blockquote>
+<p>When the user navigates to a cell, the screen reader will read a summary such as:</p>
+<blockquote><p>
+11 contributions on Monday, February 21, 2022.
+</p></blockquote>
+<p>We are excited to make one of our favorite GitHub features available to more users! If you encounter any issues with these changes, please leave a reply <a href="https://github.com/orgs/community/discussions/49015">on this feedback discussion</a>.</p>
+<p>The post <a href="https://github.blog/changelog/2023-03-02-accessibility-improvements-for-the-contribution-graph">Accessibility improvements for the contribution graph</a> appeared first on <a href="https://github.blog">The GitHub Blog</a>.</p>
+]]></content:encoded>
+					
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">70444</post-id>	</item>
+	</channel>
+</rss>
